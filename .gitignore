@@ -1,0 +1,24 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore build and dist folders created by PyInstaller
+build/
+dist/
+
+# Ignore JSON files
+*.json
+
+# Ignore PyInstaller spec files
+*.spec
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
